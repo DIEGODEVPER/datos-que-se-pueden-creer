@@ -38,3 +38,5 @@ o, uno por uno, en este orden:
 ## Aviso
 
 El código es material educativo y se ofrece sin garantía. Pruébalo en tu entorno antes de usarlo con datos reales. Las consultas están escritas para SQLite; el Anexo D del libro da las equivalencias habituales para PostgreSQL y SQL Server.
+
+*) Al ejecutar los scripts se crea el archivo meridiano.db. No se sube al repositorio (está en .gitignore) porque cualquiera lo regenera con gen_datos.py.
